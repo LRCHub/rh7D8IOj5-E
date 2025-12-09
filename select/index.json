@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Culture",
+  "base_artist": "Eric.B.Jr",
+  "createdAt": "2025-12-09T14:11:02.519491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sub-culture",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/01_Sub-culture_New_Order.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sub-culture",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_Sub-culture_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Culture Of Fear",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/03_Culture_Of_Fear_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fucking Your Culture",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/04_Fucking_Your_Culture_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Right There (Desi Hits! Culture Shock Remix)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/05_Right_There_(Desi_Hits!_Culture_Shock_Remix)_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Polarity (feat. Ghost Culture)",
+      "artist": "Boys Noize feat. Ghost Culture",
+      "has_synced": false,
+      "path": "select/06_Polarity_(feat._Ghost_Culture)_Boys_Noize_feat._Ghost_Culture.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Polarity (feat. Ghost Culture)",
+      "artist": "Boys Noize",
+      "has_synced": false,
+      "path": "select/07_Polarity_(feat._Ghost_Culture)_Boys_Noize.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Destroy 2000 Years Of Culture",
+      "artist": "Atari Teenage Riot",
+      "has_synced": true,
+      "path": "select/08_Destroy_2000_Years_Of_Culture_Atari_Teenage_Riot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Destroy 2000 Years of Culture (Live)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/09_Destroy_2000_Years_of_Culture_(Live)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Destroy 2000 Years of Culture (remix 97)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/10_Destroy_2000_Years_of_Culture_(remix_97)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Destroy 2000 Years of Culture (Remix '97)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/11_Destroy_2000_Years_of_Culture_(Remix_'97)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Culture Vulture",
+      "artist": "Chicks on Speed",
+      "has_synced": false,
+      "path": "select/12_Culture_Vulture_Chicks_on_Speed.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Big In Japan (Culture Mix)",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/13_Big_In_Japan_(Culture_Mix)_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Junk Culture",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "has_synced": false,
+      "path": "select/14_Junk_Culture_Orchestral_Manoeuvres_in_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sub-Culture - (7'' Edit) [2015 Remastered Version]",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/15_Sub-Culture_-_(7''_Edit)_[2015_Remastered_Version]_New_Order.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sub-culture (John Robie remix)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/16_Sub-culture_(John_Robie_remix)_New_Order.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Culture (feat. ANARCHY & T-Pablow)",
+      "artist": "Eric.B.Jr",
+      "has_synced": false,
+      "path": "select/pl_01_Culture_(feat._ANARCHY_&_T-Pablow)_Eric.B.Jr.txt"
+    }
+  ]
+}
